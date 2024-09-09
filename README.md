@@ -1,5 +1,9 @@
 <div align="center">
-<h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/albertozaragositenorio/">Alberto</a> 👋</h1>
+  <h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/albertozaragositenorio/">Alberto</a> 👋</h1>
+</div>
+
+<div>
+  <img src="https://imgur.com/qDZKaTy.gif"/>
 </div>
 
 ## About me
