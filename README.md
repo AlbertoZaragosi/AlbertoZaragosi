@@ -14,6 +14,8 @@
     <li>I LOVE videogames 🕹️</li>
     <li>Motivated to work! 💪</li>
   </ul>
+
+
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertozaragositenorio)
   [![Portfolio](https://img.shields.io/badge/%F0%9F%8E%A8Portfolio%F0%9F%8E%A8-green)](https://albertozaragosi.github.io/Portfolio/)
@@ -22,7 +24,14 @@
 
 </div>
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AlbertoZaragosi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoZaragosi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoZaragosi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **AlbertoZaragosi/AlbertoZaragosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
