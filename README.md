@@ -8,14 +8,7 @@
 
 ## About me
 <div id="AboutMe">
-  <ul>
-    <li>Recent graduated software developer 👾</li>
-    <li>Favorite Tech : Kotlin/Java ☕</li>
-    <li>I LOVE videogames 🕹️</li>
-    <li>Motivated to work! 💪</li>
-  </ul>
-
-
+  <p>Hey! I am a Spanish <b>Software</b> and videogames developer with interest in keep growing and learning everyday!</p>
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertozaragositenorio)
   [![Portfolio](https://img.shields.io/badge/%F0%9F%8E%A8Portfolio%F0%9F%8E%A8-green)](https://albertozaragosi.github.io/Portfolio/)
