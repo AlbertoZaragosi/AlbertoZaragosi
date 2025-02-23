@@ -1,5 +1,7 @@
+<img src="./sprite.gif" width="100%" height="350px">
+
 # 💫 About Me:
-👾\<Full-stack developer/>👾<br>🌱 Learning everyday🌱
+👾\<Full-stack developer/>👾<br>🌱Learning everyday🌱
 
 
 ## 🌐 Socials:
